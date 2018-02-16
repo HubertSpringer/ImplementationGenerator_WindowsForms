@@ -1,0 +1,10 @@
+c:\users\hubi\source\repos\Generator_v2\Generator_v2\bin\Debug\Generator_v2.exe.config
+c:\users\hubi\source\repos\Generator_v2\Generator_v2\bin\Debug\Generator_v2.exe
+c:\users\hubi\source\repos\Generator_v2\Generator_v2\bin\Debug\Generator_v2.pdb
+c:\users\hubi\source\repos\Generator_v2\Generator_v2\obj\Debug\Generator_v2.csprojResolveAssemblyReference.cache
+c:\users\hubi\source\repos\Generator_v2\Generator_v2\obj\Debug\Generator_v2.Form1.resources
+c:\users\hubi\source\repos\Generator_v2\Generator_v2\obj\Debug\Generator_v2.Properties.Resources.resources
+c:\users\hubi\source\repos\Generator_v2\Generator_v2\obj\Debug\Generator_v2.csproj.GenerateResource.Cache
+c:\users\hubi\source\repos\Generator_v2\Generator_v2\obj\Debug\Generator_v2.csproj.CoreCompileInputs.cache
+c:\users\hubi\source\repos\Generator_v2\Generator_v2\obj\Debug\Generator_v2.exe
+c:\users\hubi\source\repos\Generator_v2\Generator_v2\obj\Debug\Generator_v2.pdb

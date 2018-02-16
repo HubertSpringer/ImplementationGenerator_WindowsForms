@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="loadToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        gg==
+</value>
+  </data>
+  <data name="saveToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Szyfrator strumieniowy oparty jest 
+na generatorze  samoobcinającym, 
+a generowany  strumień liczb 
+pseudolosowych uzywany jest jako
+strumień szyfrujący. Szyfrowanie 
+polega na przeprowadzeniu operacji
+XOR  na wszystkich bitach tekstu 
+jawnego i kolejnych liczbach 
+strumienia szyfrującego.
+
+
+
+
+
+</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Generator ten jest odmianą generatora 
+obcinającego. Zamiast dwóch rejestrów 
+LSFR, stosuje się parę bitów wyjściowych 
+jednego rejestu LFSR. Taktujemy LFSR
+dwukrotnie i jeżeli pierwszym bitem w parze
+jest 1, to bitem wyjściowym jest drugi bit z 
+pary. Jeżeli pierwszym bitem jest 0, to 
+odrzucamy oba bity, po czym  rozpoczynamy
+następną próbę.  Wymagania pamięciowe
+tego generatora są o połowę mniejsze od 
+generatora obcinającego, ale za to jest o 
+wiele wolniejszy.
+
+</value>
+  </data>
+  <metadata name="tabPage2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Aby wygenerować ciąg liczb pseudolosowych, za pomocą  generatora 
+(zakładka "generator") musimy podać trzy zmienne :
+ - stan początkowy rejestru 
+Stan początkowy rejestru możemy wczytać z pliku ("Wczytaj" -&gt;"stan początkowy rejestru")
+ - indeksy odczepów 
+ - długość ciągu który chcemy wygenerować
+i kliknąć przycisk "generuj".
+Po wygenerowaniu ciąg pokaże nam się w oknie "wygenerowany/wczytany ciąg",
+możemy teraz zmieniać format wyświetlanych danych za pomocą  przycisków po
+prawej stronie okna.
+Aby zapisać wygenerowany ciąg klikamy "Zapisz" z górnego menu i wybieramy
+"wygenerowany ciąg", w pojawiającym się oknie możemy zmienić format 
+zapisywanego pliku (txt lub bin).
+</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Szyfrator (zakładka "szyfrator" ) do działania potrzebuje ciągu szyfrującego, możemy 
+generować ciąg na bieżąco aby to zrobić zaznaczamy "użyj generatora"  i  uzupełniamy 
+pola "stan początkowy rejestru" i "indexy odczepów" w zakładce "generator". Jeżeli 
+wybierzemy "użyj wygenerowanego/wczytanego ciągu szyfrującego" szyfrator użyje
+ciągu szfrującego z okna "wygenerowany/wczytany ciąg" z zakładki "generator".
+Ciąg szyfrujący możemy wczytać z pliku ("Wczytaj" -&gt;"ciąg szyfrujący").
+Po wybraniu pasującej nam opcji wpisujemy tekst który chcemy zaszyfrować do okna 
+"tekst jawny" i klikamy przycisk "szyfruj". Uzyskany szyfrogram pokaże nam się  w oknie 
+"szyfrogram". Deszyfrowanie odbywa się analogicznie co szyfrowanie. Uzyskane wyniki 
+lub dane wejściowe możemy wczytać jak i zapisać za pomocą "Wczytaj" i "Zapisz" z
+górnego menu aplikacji.
+</value>
+  </data>
+</root>
